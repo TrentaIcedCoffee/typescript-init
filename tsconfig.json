@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext", // Import JSON
+    "rootDir": "./src",
+    "outDir": "./build/",
+    "strict": true,
+
+    // Import JSON
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  }
+}
